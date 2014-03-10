@@ -1,0 +1,2 @@
+serviceClass: ba.dum.tss.client.RemoteCalc
+path: D57C0CFA6D225EF831B8D3C0CC454B82.gwt.rpc
